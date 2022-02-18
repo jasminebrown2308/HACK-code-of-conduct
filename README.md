@@ -1,6 +1,6 @@
 # WarwickHack Code of Conduct
 
-_Updated: Feb 25, 2021_
+_Updated: Feb 18, 2022_
 
 ## 1. Purpose
 A primary goal of WarwickHACK is to be inclusive to the largest number of members, with the most varied and diverse backgrounds possible. As such, we are committed to providing a friendly, safe and welcoming environment for all, regardless of gender, sexual orientation, ability, ethnicity, socioeconomic status, and religion (or lack thereof).
@@ -61,9 +61,9 @@ We expect all members and attendees (contributors, paid or otherwise; sponsors; 
 This code of conduct and its related procedures also applies to unacceptable behavior occuring outside the scope of society activities when such behavior has the potential to adversely affect the safety and well-being of society members.
 
 ## 9. Contact info
-For all inquiries relating to the code of conduct, you should contact members of the WarwickTECH team either via email or another method e.g discord.<br>
+For all inquiries relating to the code of conduct, you should contact members of the WarwickTECH team either via email or another method e.g. Discord.<br>
 Email: hello@warwick.tech <br>
-Incidents Line: +44 20 4538 2211 
+Incidents Line: +44 7741 207083
 
 ## 10. License and attribution
 This Code of Conduct is adapted from the the 'HackSoc Code of Conduct'<br>
